@@ -28,8 +28,8 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "ACME Store",
-  description: "ACME Store, your one-stop shop for all your needs.",
+  title: "Ioarts makes illustrations for Products and Web Development",
+  description: "Ioarts is empowering brands through bespoke visual illustrations, our studio ioartseu specializes in transforming abstract concepts into compelling visual assets tailored for diverse product and web development needs",
   generator: "v0.app",
 }
 
